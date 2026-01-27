@@ -65,3 +65,11 @@
 "NeurIPS":
   url: https://neurips.cc/
   color: "#6E4C8B"
+
+"ICLR":
+  url: https://iclr.cc/
+  color: "#6E4C8B"
+
+"IEEE EMBC":
+  url: https://embc.embs.org/
+  color: "#186da3"
