@@ -73,3 +73,8 @@
 "IEEE EMBC":
   url: https://embc.embs.org/
   color: "#186da3"
+
+"SIREV":
+  url: https://www.siam.org/publications/siam-journals/siam-review/
+  color: "#c32b72"
+
